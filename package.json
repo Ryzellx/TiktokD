@@ -2,7 +2,7 @@
   "name": "tiktokdl-api",
   "version": "2.3.2",
   "description": "Website Tiktok Downloader API.",
-  "main": "index.coffee",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec coffee index.coffee",
     "start": "node index.js",
