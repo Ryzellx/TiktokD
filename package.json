@@ -4,7 +4,7 @@
   "description": "Website Tiktok Downloader API.",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec coffee index.coffee",
+    "dev": "node index.js",
     "start": "node index.js",
     "start:coffee": "coffee index.coffee",
     "test": "echo \"Error: no test specified\" && exit 1"
